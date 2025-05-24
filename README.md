@@ -1,42 +1,32 @@
-<<<<<<< HEAD
-# sv
+# Portfolio
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Welcome to my personal portfolio website! 🚀
 
-## Creating a project
+This site showcases my projects, skills, and experience as a developer. It's built using modern frontend technologies with a focus on clean design, performance, and accessibility.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## 🔧 Tech Stack
 
-```bash
-# create a new project in the current directory
-npx sv create
+- HTML5 / CSS3 / JavaScript
+- [Svelte](https://svelte.dev/)
+- Tailwind CSS (optional)
+- Git & GitHub for version control
 
-# create a new project in my-app
-npx sv create my-app
-```
+## 📁 Structure
 
-## Developing
+- `src/` – Components and logic
+- `public/` – Static assets and the HTML shell
+- `README.md` – This file 😉
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## 🌐 Live Demo
 
-```bash
-npm run dev
+You can view the live version here: **[https://fab2102.github.io/portfolio](https://fab2102.github.io/portfolio)**  
+_(replace with actual link if different)_
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## 📬 Contact
 
-## Building
+Want to connect?  
+Reach me via [your email or LinkedIn].
 
-To create a production version of your app:
+---
 
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
-=======
-# portfolio
->>>>>>> 95e1e82469e4fb7047c1e1c873bad389e0d0e1b1
+> Built with ❤️ by Fabian
