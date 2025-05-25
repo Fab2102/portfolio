@@ -84,9 +84,9 @@
 						</div>
 					</Card.Header>
 					<Card.Content
-						class="px-5 pb-4 text-sm leading-relaxed text-gray-700 sm:px-6 sm:pb-6 sm:text-base"
+						class="px-5 pb-4 text-sm leading-relaxed text-gray-700 sm:px-8 sm:pb-6 sm:text-base"
 					>
-						<p class="mb-4">{item.description}</p>
+						<p class="mb-6">{item.description}</p>
 						<div class="flex flex-wrap gap-2">
 							{#each item.skills as skill}
 								<Badge variant="secondary" class="text-xs">
@@ -131,9 +131,9 @@
 						</div>
 					</Card.Header>
 					<Card.Content
-						class="px-5 pb-4 text-sm leading-relaxed text-gray-700 sm:px-6 sm:pb-6 sm:text-base"
+						class="px-5 pb-4 text-sm leading-relaxed text-gray-700 sm:px-8 sm:pb-6 sm:text-base"
 					>
-						<p class="mb-4">{item.description}</p>
+						<p class="mb-6">{item.description}</p>
 						<div class="flex flex-wrap gap-2">
 							{#each item.skills as skill}
 								<Badge variant="secondary" class="text-xs">

@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
-	import { Button } from '$lib/components/ui/button';
 	import { Badge } from '$lib/components/ui/badge';
 	import * as Card from '$lib/components/ui/card';
 	import { Separator } from '$lib/components/ui/separator';
@@ -87,14 +86,15 @@
 		</p>
 	</div>
 
-	<div class="grid gap-8 md:grid-cols-2">
+	<div class="grid gap-8 px-4 md:grid-cols-2">
 		<!-- Programming Languages -->
 		<Card.Root class="p-6">
 			<Card.Header class="pb-4">
 				<Card.Title class="text-xl font-semibold text-gray-900">Languages & Technologies</Card.Title
 				>
 			</Card.Header>
-			<Card.Content class="space-y-6">
+			<Separator class="ml-6 w-auto" />
+			<Card.Content class="mt-2 space-y-6">
 				{#each programmingLanguages as lang, index}
 					<div class="space-y-4">
 						<div class="flex items-center justify-between">
@@ -112,7 +112,8 @@
 			<Card.Header class="pb-4">
 				<Card.Title class="text-xl font-semibold text-gray-900">Frameworks</Card.Title>
 			</Card.Header>
-			<Card.Content class="space-y-6">
+			<Separator class="ml-6 w-auto" />
+			<Card.Content class="mt-2 space-y-6">
 				{#each frameworks as framework, index}
 					<div class="space-y-4">
 						<div class="flex items-center justify-between">
