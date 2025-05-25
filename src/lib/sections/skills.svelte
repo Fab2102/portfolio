@@ -76,7 +76,7 @@
 
 <section
 	bind:this={skillsSection}
-	class="mx-auto mb-20 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
+	class="mx-auto mb-20 max-w-7xl -scroll-mt-16 px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
 	id="skills"
 >
 	<div class="mb-12">

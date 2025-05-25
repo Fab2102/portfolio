@@ -32,7 +32,7 @@
 
 <!-- Section 1 -->
 <section
-	class="mx-auto mb-10 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
+	class="mx-auto mb-10 max-w-7xl -scroll-mt-16 px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
 	id="projects"
 >
 	<h2 class="mb-12 px-5 text-3xl font-bold text-gray-900 sm:text-4xl">Projects</h2>
