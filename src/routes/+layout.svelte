@@ -9,7 +9,8 @@
 		document.documentElement.style.scrollBehavior = 'auto';
 	});
 
-	afterNavigate(() => {
+	afterNavigate((nav) => {
+		if (!nav.from) return;
 		window.scrollTo(0, 0);
 		document.documentElement.style.scrollBehavior = '';
 	});

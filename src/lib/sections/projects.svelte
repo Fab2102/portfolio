@@ -482,7 +482,7 @@
 							size="sm"
 							variant="outline"
 							class="group flex items-center justify-center overflow-hidden px-4 py-2 transition-all duration-100 active:scale-[0.97]"
-							href="/"
+							href="https://project-corp-it-1.vercel.app/"
 						>
 							<ExternalLink class="mr-2 h-4 w-4" />
 							Demo
