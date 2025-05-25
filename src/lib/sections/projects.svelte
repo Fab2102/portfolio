@@ -25,13 +25,14 @@
 		TreePine,
 		Trees,
 		Sprout,
-		Tractor
+		Tractor,
+		Bitcoin
 	} from '@lucide/svelte';
 </script>
 
 <!-- Section 1 -->
 <section
-	class="mx-auto mb-20 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
+	class="mx-auto mb-10 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
 	id="projects"
 >
 	<h2 class="mb-12 px-5 text-3xl font-bold text-gray-900 sm:text-4xl">Projects</h2>
@@ -124,7 +125,7 @@
 
 <!-- Section 2 -->
 <section
-	class="mx-auto mb-20 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
+	class="mx-auto mb-10 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
 >
 	<div class="flex flex-col-reverse items-center gap-4 sm:gap-6 md:gap-8 lg:gap-12 xl:flex-row">
 		<div class="flex w-full items-center justify-center xl:w-3/5">
@@ -219,7 +220,7 @@
 
 <!-- Section 3 -->
 <section
-	class="mx-auto mb-20 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:px-6 md:py-16 lg:px-8 lg:py-24"
+	class="mx-auto mb-10 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:px-6 md:py-16 lg:px-8 lg:py-24"
 >
 	<div class="flex flex-col items-center gap-4 sm:gap-6 md:gap-8 lg:gap-12 xl:flex-row">
 		<div class="w-full max-w-md xl:w-2/5 xl:max-w-lg">
@@ -311,7 +312,7 @@
 
 <!-- Section 4 -->
 <section
-	class="mx-auto mb-20 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
+	class="mx-auto mb-10 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
 >
 	<div class="flex flex-col-reverse items-center gap-4 sm:gap-6 md:gap-8 lg:gap-12 xl:flex-row">
 		<div class="flex w-full items-center justify-center xl:w-3/5">
@@ -421,7 +422,7 @@
 
 <!-- Section 5 -->
 <section
-	class="mx-auto mb-20 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:px-6 md:py-16 lg:px-8 lg:py-24"
+	class="mx-auto mb-40 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:px-6 md:py-16 lg:px-8 lg:py-24"
 >
 	<div class="flex flex-col items-center gap-4 sm:gap-6 md:gap-8 lg:gap-12 xl:flex-row">
 		<div class="w-full max-w-md xl:w-2/5 xl:max-w-lg">
@@ -442,22 +443,22 @@
 				</Card.Header>
 				<Card.Content class="mb-6 flex-grow px-5 text-gray-700 sm:px-6">
 					<p class="mb-4 text-sm leading-relaxed sm:text-base">
-						This Next.js web application displays the nutrient tables for various wines. It was
-						developed in response to a new EU policy that mandates the inclusion of nutrient
-						information on wine labels.
+						Investree is a conceptual forest investment platform developed as a university project.
+						It demonstrates how blockchain can enable transparent, accessible, and sustainable
+						forest ownership — but it was created solely for academic purposes.
 					</p>
 					<div class="mt-8 space-y-3 text-sm text-gray-600">
 						<div class="flex items-center gap-2">
 							<Sprout class="h-4 w-4 text-blue-500" />
-							<span>1</span>
+							<span>Connects people to forest projects</span>
 						</div>
 						<div class="flex items-center gap-2">
-							<Tractor class="h-4 w-4 text-blue-500" />
-							<span>2</span>
+							<Bitcoin class="h-4 w-4 text-blue-500" />
+							<span>Revenue sharing via smart contracts</span>
 						</div>
 						<div class="flex items-center gap-2">
 							<Globe class="h-4 w-4 text-blue-500" />
-							<span>Invest globally</span>
+							<span>Global access to green investing</span>
 						</div>
 					</div>
 				</Card.Content>
@@ -505,7 +506,7 @@
 			<div
 				class="mx-4 w-full overflow-hidden rounded-lg bg-white sm:mx-0 sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-full"
 			>
-				<img src="/nutrient_webapp.png" alt="code snippet" class="h-auto w-auto" />
+				<img src="/investree.png" alt="code snippet" class="h-auto w-auto" />
 			</div>
 		</div>
 	</div>

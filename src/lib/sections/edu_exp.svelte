@@ -29,7 +29,7 @@
 			company: 'WU (Vienna University of Economics and Business)',
 			description:
 				'Bachelor’s degree program combining business administration and computer science. Focus on data analysis, database systems and software development in business contexts.',
-			skills: ['Python', 'SQL', 'R', 'SPARQL']
+			skills: ['Python', 'SQL', 'R', 'SPARQL', 'Machine Learning']
 		},
 		{
 			logo: '/RBI_logo.jpg',
