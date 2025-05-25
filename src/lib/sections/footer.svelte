@@ -2,6 +2,7 @@
 	import { Github, Twitter, Linkedin, Mail, MapPin, Code } from '@lucide/svelte';
 	const currentYear = new Date().getFullYear();
 	const quickLinks = [
+		{ name: 'Home', href: '/' },
 		{ name: 'Privacy Policy', href: '/privacy' },
 		{ name: 'Imprint', href: '/imprint' }
 	];
