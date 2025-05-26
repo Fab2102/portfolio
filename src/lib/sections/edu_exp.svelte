@@ -37,7 +37,7 @@
 			position: 'Intern',
 			company: 'Raiffeisen Bank International',
 			description:
-				'Assisted the Custody department with administrative support, including handling securities-related processes and preparing Due Diligence documentation for institutional clients.',
+				'Assisted the Custody and Business Architecture department with administrative support, including handling securities-related processes and preparing Due Diligence questionnaires for clients.',
 			skills: ['Python', 'JIRA']
 		},
 		{
@@ -46,7 +46,7 @@
 			position: 'Student Software Developer',
 			company: 'Raiffeisen Bank International',
 			description:
-				'Contributed to software development projects with Python aimed at automating internal processes. Focused on scripting, task automation, and supporting agile project workflows.',
+				'Contributed to software development projects with Python aimed at automating internal processes. Focused on scripting, task automation and supporting agile project workflows.',
 			skills: ['Python', 'Github', 'Git', 'Software Architecture']
 		}
 	];
@@ -56,7 +56,8 @@
 	id="experience"
 	class="mx-auto max-w-7xl -scroll-mt-16 px-5 py-8 sm:px-4 sm:py-12 md:px-6 md:py-16 lg:px-8 lg:py-24"
 >
-	<h2 class="mb-12 px-5 text-3xl font-bold text-gray-900 sm:text-4xl">Education & Experience</h2>
+	<h2 class="mb-4 px-5 text-3xl font-bold text-gray-900 sm:text-4xl">Education & Experience</h2>
+	<Separator class="mb-12 ml-4 w-5/6" />
 
 	<!-- Education Section -->
 	<div class="mb-8">

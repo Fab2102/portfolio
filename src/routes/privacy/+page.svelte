@@ -2,7 +2,7 @@
 	import Footer from '$lib/sections/footer.svelte';
 </script>
 
-<div class="mx-auto mb-40 mt-6 max-w-3xl space-y-8 px-6 py-12">
+<div class="mx-auto mb-32 mt-6 max-w-3xl space-y-8 px-6 py-12">
 	<h1 class="text-4xl font-bold text-gray-800">Privacy Policy</h1>
 
 	<section class="space-y-4 text-gray-700">
@@ -105,10 +105,10 @@
 			contact me at the email address below.
 		</p>
 		<p>
-			<strong>Your Name</strong><br />
+			<strong>Fabian Bauer</strong><br />
 			Email:
 			<a href="mailto:your-email@example.com" class="text-blue-600 hover:underline"
-				>your-email@example.com</a
+				>fab.bauer@outlook.com</a
 			>
 		</p>
 	</section>

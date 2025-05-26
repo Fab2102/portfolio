@@ -6,21 +6,21 @@
 	import { Progress } from '$lib/components/ui/progress/index.js';
 
 	const programmingLanguages = [
-		{ name: 'JavaScript', level: 80 },
+		{ name: 'JavaScript', level: 75 },
 		{ name: 'TypeScript', level: 70 },
-		{ name: 'Python', level: 95 },
+		{ name: 'Python', level: 90 },
 		{ name: 'SQL', level: 70 },
-		{ name: 'R', level: 70 },
+		{ name: 'R', level: 65 },
 		{ name: 'Swift', level: 60 }
 	];
 
 	const frameworks = [
-		{ name: 'React', level: 65 },
+		{ name: 'React', level: 70 },
 		{ name: 'Angular', level: 50 },
-		{ name: 'Vue', level: 70 },
-		{ name: 'Svelte', level: 80 },
-		{ name: 'Next.js', level: 75 },
-		{ name: 'FastAPI', level: 75 }
+		{ name: 'Vue', level: 60 },
+		{ name: 'Svelte', level: 75 },
+		{ name: 'Next.js', level: 70 },
+		{ name: 'FastAPI', level: 70 }
 	];
 
 	// Reactive variables for animated progress

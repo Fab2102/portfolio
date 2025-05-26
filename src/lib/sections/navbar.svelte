@@ -34,7 +34,7 @@
 						<a
 							href={item.href}
 							class="text-md inline-flex items-center border-b-2 border-transparent px-1 pt-1 font-medium
-                     text-gray-500 transition-colors duration-150 ease-in-out
+                     text-gray-700 transition-colors duration-150 ease-in-out
                      hover:border-primary/80 hover:text-primary
                      active:border-primary active:text-primary"
 						>
