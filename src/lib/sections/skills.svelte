@@ -23,7 +23,6 @@
 		{ name: 'FastAPI', level: 70 }
 	];
 
-	// Reactive variables for animated progress
 	let langProgress = programmingLanguages.map(() => 0);
 	let frameworkProgress = frameworks.map(() => 0);
 	let skillsSection: HTMLElement;
@@ -53,14 +52,14 @@
 									frameworkProgress[index] = framework.level;
 								},
 								100 + index * 150
-							); // Stagger the animations
+							);
 						});
 					}
 				});
 			},
 			{
-				threshold: 0.3, // Trigger when 30% of the section is visible
-				rootMargin: '0px 0px -50px 0px' // Start animation slightly before fully in view
+				threshold: 0.3,
+				rootMargin: '0px 0px -50px 0px'
 			}
 		);
 
@@ -76,7 +75,7 @@
 
 <section
 	bind:this={skillsSection}
-	class="mx-auto mb-20 max-w-7xl -scroll-mt-16 px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
+	class="mx-auto mb-20 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:-scroll-mt-16 md:px-6 md:py-16 lg:px-8 lg:py-24"
 	id="skills"
 >
 	<div class="mb-12">
