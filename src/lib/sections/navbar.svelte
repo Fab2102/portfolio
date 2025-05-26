@@ -115,6 +115,7 @@
 				{#each anchors as item}
 					<a
 						href={item.href}
+						onclick={toggleMobile}
 						class="block rounded-l-md border-l-2 border-transparent py-1.5 pl-8 pr-4 text-sm font-medium text-gray-500 transition-colors duration-150 ease-in-out hover:border-primary/80 hover:bg-primary/10 hover:text-primary active:border-primary active:bg-primary/20 active:text-primary"
 					>
 						{item.name}
