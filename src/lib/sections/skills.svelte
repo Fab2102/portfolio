@@ -42,7 +42,7 @@
 								() => {
 									langProgress[index] = lang.level;
 								},
-								300 + index * 150
+								100 + index * 150
 							); // Stagger the animations
 						});
 
@@ -52,7 +52,7 @@
 								() => {
 									frameworkProgress[index] = framework.level;
 								},
-								300 + index * 150
+								100 + index * 150
 							); // Stagger the animations
 						});
 					}
