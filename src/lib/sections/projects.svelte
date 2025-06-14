@@ -30,7 +30,7 @@
 
 <!-- Section 1 -->
 <section
-	class="mx-auto mb-10 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:-scroll-mt-16 md:px-6 md:py-16 lg:px-8 lg:py-24"
+	class="mx-auto mb-40 max-w-7xl px-5 py-8 sm:mb-32 sm:px-4 sm:py-12 md:mb-0 md:-scroll-mt-16 md:px-6 md:py-16 lg:px-8 lg:py-24"
 	id="projects"
 >
 	<h2 class="mb-3 px-5 text-3xl font-bold text-gray-900 sm:text-4xl">Projects</h2>
@@ -125,7 +125,7 @@
 
 <!-- Section 2 -->
 <section
-	class="mx-auto mb-10 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
+	class="mx-auto mb-40 max-w-7xl px-5 py-8 sm:mb-32 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
 >
 	<div class="flex flex-col-reverse items-center gap-4 sm:gap-6 md:gap-8 lg:gap-12 xl:flex-row">
 		<div class="flex w-full items-center justify-center xl:w-3/5">
@@ -220,7 +220,7 @@
 
 <!-- Section 3 -->
 <section
-	class="mx-auto mb-10 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:px-6 md:py-16 lg:px-8 lg:py-24"
+	class="mx-auto mb-40 max-w-7xl px-5 py-8 sm:mb-32 sm:px-4 sm:py-12 md:px-6 md:py-16 lg:px-8 lg:py-24"
 >
 	<div class="flex flex-col items-center gap-4 sm:gap-6 md:gap-8 lg:gap-12 xl:flex-row">
 		<div class="w-full max-w-md xl:w-2/5 xl:max-w-lg">
@@ -312,7 +312,7 @@
 
 <!-- Section 4 -->
 <section
-	class="mx-auto mb-10 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
+	class="mx-auto mb-40 max-w-7xl px-5 py-8 sm:mb-32 sm:px-4 sm:py-12 md:mb-0 md:px-6 md:py-16 lg:px-8 lg:py-24"
 >
 	<div class="flex flex-col-reverse items-center gap-4 sm:gap-6 md:gap-8 lg:gap-12 xl:flex-row">
 		<div class="flex w-full items-center justify-center xl:w-3/5">
