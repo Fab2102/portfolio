@@ -56,8 +56,9 @@
 	id="experience"
 	class="mx-auto max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:-scroll-mt-16 md:px-6 md:py-16 lg:px-8 lg:py-24"
 >
-	<h2 class="mb-4 px-5 text-3xl font-bold text-gray-900 sm:text-4xl">Education & Experience</h2>
-	<Separator class="mb-12 ml-4 w-5/6" />
+	<h2 class="mb-3 px-5 text-3xl font-bold text-gray-900 sm:text-4xl">Education & Experience</h2>
+	<p class="mb-5 px-5 text-lg text-gray-500 sm:text-xl">Where I’ve studied and worked.</p>
+	<Separator class="mb-12 ml-4 w-11/12" />
 
 	<!-- Education Section -->
 	<div class="mb-8">

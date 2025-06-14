@@ -33,8 +33,9 @@
 	class="mx-auto mb-10 max-w-7xl px-5 py-8 sm:px-4 sm:py-12 md:mb-0 md:-scroll-mt-16 md:px-6 md:py-16 lg:px-8 lg:py-24"
 	id="projects"
 >
-	<h2 class="mb-4 px-5 text-3xl font-bold text-gray-900 sm:text-4xl">Projects</h2>
-	<Separator class="mb-12 ml-4 w-5/6" />
+	<h2 class="mb-3 px-5 text-3xl font-bold text-gray-900 sm:text-4xl">Projects</h2>
+	<p class="mb-5 px-5 text-lg text-gray-500 sm:text-xl">Things I’ve built and worked on.</p>
+	<Separator class="mb-12 ml-4 w-11/12" />
 	<div class="flex flex-col items-center gap-4 sm:gap-6 md:gap-8 lg:gap-12 xl:flex-row">
 		<div class="w-full max-w-md xl:w-2/5 xl:max-w-lg">
 			<Card.Root

@@ -5,8 +5,9 @@
 <strong></strong>
 
 <section class="mx-auto max-w-7xl px-5 py-6 sm:px-4 md:px-6 lg:px-8" id="about">
-	<h2 class="mb-4 px-5 text-3xl font-bold text-gray-900 sm:text-4xl">About Me</h2>
-	<Separator class="mb-8 ml-4 w-5/6" />
+	<h2 class="mb-3 px-5 text-3xl font-bold text-gray-900 sm:text-4xl">About Me</h2>
+	<p class="mb-5 px-5 text-lg text-gray-500 sm:text-xl">A quick intro to who I am and what I do.</p>
+	<Separator class="mb-10 ml-4 w-11/12" />
 
 	<p class="mb-10 max-w-[95ch] px-5 text-base leading-relaxed text-gray-800 sm:text-lg">
 		Hi, I’m Fabian – a <strong>Business Informatics student</strong> at WU Vienna with hands-on

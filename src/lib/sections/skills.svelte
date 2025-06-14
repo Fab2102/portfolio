@@ -80,9 +80,7 @@
 >
 	<div class="mb-12">
 		<h2 class="mb-3 px-5 text-3xl font-bold text-gray-900 sm:text-4xl">Skills</h2>
-		<p class="px-5 text-lg text-gray-600 sm:text-xl">
-			My technical expertise across various programming languages and frameworks.
-		</p>
+		<p class="px-5 text-lg text-gray-600 sm:text-xl">Tech I work with and enjoy using.</p>
 	</div>
 
 	<div class="grid gap-8 px-4 md:grid-cols-2">
